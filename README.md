@@ -2,7 +2,7 @@
 
 A voice activated rotating museum. While the options are admittedly limited, this mini museum boasts two of the most famous paintings in the world, printed on the finest white printer paper. Simply ask to see one of the two paintings, either the Mona Lisa or The Scream. One raspberry pi, the client, will take input from a microphone, parse that into text and look for a related keyword. Once it recognizes a keyword related to either painting, it will send a request to the IP Address of a second Raspberry Pi, the server, that describes which painting was mentioned. The server pi will take that information and turn a planetary gear system either 90 degrees to the right or left to display one painting on the front window and then return.
 
-![Demonstration of Functionality](https://media.giphy.com/media/RXd2CE7I8iJjKVYdhW/giphy.gif)
+![Demonstration of Functionality](mini-museum-demo-compressed.gif)
 
 [Full Video](https://youtu.be/GzdikGhd4Ek)
 ## Getting Started
@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 - [Raspberry Pi 4](https://www.google.com/search?q=raspberry+pi+4&sxsrf=ALeKk03vsMgGCu7PQVxu5BVM5yzeNxULQw:1613717510216&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjM7dqXrvXuAhWYWc0KHdwgBTIQ_AUoAXoECAUQAw&biw=958&bih=1087) x2
 - Breadboard power supply (Accepts power from a 2.1 x 5.5 mm plug from a 12 V wall adapter. Emits 12 V, 5 V, and 3.3 V at the same time.) Custom PCB
 
-![Components](C:/../component_box.svg)
+![Components](labelled_component_box.PNG)
 
 ### Installing
 
