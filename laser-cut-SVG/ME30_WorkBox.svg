@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="42.666in"
+   height="11.472in"
+   viewBox="0 0 42.666 11.472"
+   version="1.1"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg13"
+   sodipodi:docname="box.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1177"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="0.26514086"
+     inkscape:cx="2156.1986"
+     inkscape:cy="397.26823"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13"
+     inkscape:document-units="in"
+     units="in" />
+  <path
+     d="m 0,9.943 v 0.514 h 0.236 v 0.501 H 0 v 0.514 h 0.966 v -0.236 h 0.501 v 0.236 H 1.969 V 11.236 H 2.47 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 H 8.99 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 V 11.236 H 12.5 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 0.464 v -0.514 h -0.236 v -0.501 h 0.236 V 9.943 Z"
+     id="front_outsideCutPath"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 15.833,9.943 v 0.514 h -0.236 v 0.501 h 0.236 v 0.514 h 0.736 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 v -0.236 h 0.501 v 0.236 h 0.502 0.234 v -0.514 h 0.236 V 10.457 H 26.833 V 9.943 Z"
+     id="left_outsideCutPath"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="M 0,8.289 V 8.803 H 0.236 V 9.304 H 0 V 9.818 H 0.966 V 9.582 H 1.467 V 9.818 H 1.969 V 9.582 H 2.47 V 9.818 H 2.972 V 9.582 H 3.473 V 9.818 H 3.975 V 9.582 H 4.476 V 9.818 H 4.978 V 9.582 H 5.479 V 9.818 H 5.981 V 9.582 H 6.482 V 9.818 H 6.984 V 9.582 H 7.485 V 9.818 H 7.987 V 9.582 H 8.488 V 9.818 H 8.99 V 9.582 H 9.491 V 9.818 H 9.993 V 9.582 h 0.501 v 0.236 h 0.502 V 9.582 h 0.501 v 0.236 h 0.502 V 9.582 H 12.5 v 0.236 h 0.502 V 9.582 h 0.501 v 0.236 h 0.502 V 9.582 h 0.501 v 0.236 h 0.502 0.464 V 9.304 H 15.236 V 8.803 h 0.236 V 8.289 Z"
+     id="back_outsideCutPath"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="m 15.833,8.289 v 0.514 h -0.236 v 0.501 h 0.236 v 0.514 h 0.736 V 9.582 h 0.501 v 0.236 h 0.502 V 9.582 h 0.501 v 0.236 h 0.502 V 9.582 h 0.501 v 0.236 h 0.502 V 9.582 h 0.501 v 0.236 h 0.502 V 9.582 h 0.501 v 0.236 h 0.502 V 9.582 h 0.501 v 0.236 h 0.502 V 9.582 h 0.501 V 9.818 H 23.59 V 9.582 h 0.501 v 0.236 h 0.502 V 9.582 h 0.501 v 0.236 h 0.502 V 9.582 h 0.501 v 0.236 h 0.502 0.234 V 9.304 h 0.236 V 8.803 H 26.833 V 8.289 Z"
+     id="right_outsideCutPath"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <path
+     d="M 27.43,0.236 V 0.972 H 27.194 V 1.473 H 27.43 V 1.975 H 27.194 V 2.476 H 27.43 V 2.978 H 27.194 V 3.479 H 27.43 V 3.981 H 27.194 V 4.482 H 27.43 V 4.984 H 27.194 V 5.485 H 27.43 V 5.987 H 27.194 V 6.488 H 27.43 V 6.99 H 27.194 V 7.491 H 27.43 V 7.993 H 27.194 V 8.494 H 27.43 V 8.996 H 27.194 V 9.497 H 27.43 V 9.999 H 27.194 V 10.5 h 0.236 v 0.502 0.234 h 0.73 v 0.236 h 0.501 v -0.236 h 0.502 v 0.236 h 0.501 v -0.236 h 0.502 v 0.236 h 0.501 v -0.236 h 0.502 v 0.236 h 0.501 v -0.236 h 0.502 v 0.236 h 0.501 v -0.236 h 0.502 v 0.236 h 0.501 v -0.236 h 0.502 v 0.236 h 0.501 v -0.236 h 0.502 v 0.236 h 0.501 v -0.236 h 0.502 v 0.236 h 0.501 v -0.236 h 0.502 v 0.236 h 0.501 v -0.236 h 0.502 v 0.236 h 0.501 v -0.236 h 0.502 v 0.236 h 0.501 v -0.236 h 0.502 v 0.236 h 0.501 v -0.236 h 0.502 v 0.236 H 41.7 v -0.236 h 0.502 0.228 V 10.5 h 0.236 V 9.999 H 42.43 V 9.497 h 0.236 V 8.996 H 42.43 V 8.494 h 0.236 V 7.993 H 42.43 V 7.491 h 0.236 V 6.99 H 42.43 V 6.488 h 0.236 V 5.987 H 42.43 V 5.485 h 0.236 V 4.984 H 42.43 V 4.482 h 0.236 V 3.981 H 42.43 V 3.479 h 0.236 V 2.978 H 42.43 V 2.476 h 0.236 V 1.975 H 42.43 V 1.473 h 0.236 V 0.972 H 42.43 V 0.47 0.236 H 41.7 V 0 H 41.199 V 0.236 H 40.697 V 0 H 40.196 V 0.236 H 39.694 V 0 H 39.193 V 0.236 H 38.691 V 0 H 38.19 V 0.236 H 37.688 V 0 H 37.187 V 0.236 H 36.685 V 0 H 36.184 V 0.236 H 35.682 V 0 H 35.181 V 0.236 H 34.679 V 0 H 34.178 V 0.236 H 33.676 V 0 H 33.175 V 0.236 H 32.673 V 0 H 32.172 V 0.236 H 31.67 V 0 H 31.169 V 0.236 H 30.667 V 0 H 30.166 V 0.236 H 29.664 V 0 H 29.163 V 0.236 H 28.661 V 0 H 28.16 v 0.236 h -0.502 z"
+     id="bottom_outsideCutPath"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
+     vector-effect="non-scaling-stroke" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:0.416667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.502008;stroke:none;stroke-width:0.0104167"
+     x="4.1843615"
+     y="10.593592"
+     id="text33"><tspan
+       sodipodi:role="line"
+       id="tspan31"
+       x="4.1843615"
+       y="10.593592"
+       style="fill:#000000;fill-opacity:0.502008;stroke-width:0.0104167">Paintings: Mona Lisa, The Scream</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:0.25px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.502008;stroke:none;stroke-width:0.0104167"
+     x="6.0833511"
+     y="11.097042"
+     id="text37"><tspan
+       sodipodi:role="line"
+       id="tspan35"
+       x="6.0833511"
+       y="11.097042"
+       style="font-size:0.25px;fill:#000000;fill-opacity:0.502008;stroke-width:0.0104167">&quot;Can I see The Mona Lisa&quot;</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:0.416667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.497992;stroke:none;stroke-width:0.0104167"
+     x="0.83339036"
+     y="9.1658049"
+     id="text864"><tspan
+       sodipodi:role="line"
+       id="tspan862"
+       x="0.83339036"
+       y="9.1658049"
+       style="fill:#000000;fill-opacity:0.497992;stroke-width:0.0104167">Sawyer B. Paccione</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:0.416667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.497992;stroke:none;stroke-width:0.0104167"
+     x="11.570611"
+     y="9.2096481"
+     id="text868"><tspan
+       sodipodi:role="line"
+       id="tspan866"
+       x="11.570611"
+       y="9.2096481"
+       style="fill:#000000;fill-opacity:0.497992;stroke-width:0.0104167">Olif S. Hordofa</tspan></text>
+</svg>
