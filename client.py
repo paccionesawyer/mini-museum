@@ -19,7 +19,7 @@ import requests
 
 CHUNK = 1024
 
-IP_ADDRESS = "130.64.143.39"
+IP_ADDRESS = "PUT IP HERE"
 
 def recognize_speech_from_mic(recognizer, microphone):
     """Transcribe speech from recorded from `microphone`.
